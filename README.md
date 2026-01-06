@@ -1,6 +1,4 @@
 # Healthcare-Analytics-for-Improving-Patient-Outcomes
-# Healthcare-Analysis---MYSQL
-
 
 one line summary
 
